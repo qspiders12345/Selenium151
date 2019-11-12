@@ -9,6 +9,7 @@ public interface AutoConstant
 	String gecko_key="webdriver.gecko.driver";
 	String gecko_value="E:/Softwares/geckodriver.exe";
 	String excel_path="E:/Selenium151/Practice/FrameworkData.xlsx";
+	String sheet_name="Sheet1";
 	String url="https://demo.actitime.com";
 	
 }
