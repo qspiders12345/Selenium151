@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="31035" started-at="2019-11-09T02:20:34Z" finished-at="2019-11-09T02:21:06Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="31035" started-at="2019-11-09T02:20:34Z" finished-at="2019-11-09T02:21:06Z">
+      <class name="test.TESTActitimeLogin">
+        <test-method status="PASS" signature="opneApp()[pri:0, instance:test.TESTActitimeLogin@17d0685f]" name="opneApp" is-config="true" duration-ms="22647" started-at="2019-11-09T02:20:35Z" finished-at="2019-11-09T02:20:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- opneApp -->
+        <test-method status="PASS" signature="login()[pri:0, instance:test.TESTActitimeLogin@17d0685f]" name="login" duration-ms="8288" started-at="2019-11-09T02:20:57Z" finished-at="2019-11-09T02:21:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:test.TESTActitimeLogin@17d0685f]" name="closeApp" is-config="true" duration-ms="0" started-at="2019-11-09T02:21:05Z" finished-at="2019-11-09T02:21:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- test.TESTActitimeLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
